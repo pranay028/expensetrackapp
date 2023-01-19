@@ -7,10 +7,7 @@ body {
     height: 16px;
   }
   
-  /*
-   * Sidebar
-   */
-  
+  /* siderbar */
   .sidebar {
     position: fixed;
     top: 0;
